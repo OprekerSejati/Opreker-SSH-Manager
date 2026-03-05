@@ -33,6 +33,6 @@ Opreker is a ~4,800 LOC project (1.6k Rust / 3k TS) built around performance and
 *Note: Currently optimized for macOS (Apple Silicon).*
 
 **Download the latest release:**
-1. Go to the [Releases]([https://github.com/OprekerSejati/Opreker-SSH-Manager/releases/tag/0.0.1]) page.
+1. Go to the [Releases](https://github.com/OprekerSejati/Opreker-SSH-Manager/releases/tag/0.0.1) page.
 2. Download the `.dmg` file.
 3. Drag and drop `Opreker SSH Manager` into your Applications folder.
