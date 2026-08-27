@@ -1,4 +1,4 @@
-## 💡 Why Opreker? (The "Scratch Your Own Itch" Story)
+## 💡 Why Opreker-SSH-Manager? (The "Scratch Your Own Itch" Story)
 
 Modern SSH clients have become massive suites. Tools like Termius and MobaXterm are great, but they often feel heavily bloated, consume too much RAM, or constantly push cloud-sync features. 
 
@@ -20,7 +20,7 @@ Worst of all? Many lack a simple, local backup option, effectively forcing you i
 
 ## 🛠️ Under the Hood (Tech Stack)
 
-Opreker is a ~4,800 LOC project (1.6k Rust / 3k TS) built around performance and developer experience:
+Opreker-SSH-Manager is a ~4,800 LOC project (1.6k Rust / 3k TS) built around performance and developer experience:
 
 - **Core & Backend:** [Rust](https://www.rust-lang.org/) + [Tauri](https://tauri.app/)
 - **SSH Implementation:** `russh` (pure Rust async SSH client)
